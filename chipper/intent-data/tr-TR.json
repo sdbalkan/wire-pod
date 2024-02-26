@@ -1,0 +1,218 @@
+[
+	{
+		"name" : "intent_names_username_extend", 
+		"keyphrases": [ "adım", "ismim" ]
+	},
+	{	
+		"name": "intent_weather_extend", 
+		"keyphrases" : [ "hava", "hava durumu" ]
+	},
+	{	
+		"name": "intent_names_ask", 
+		"keyphrases" : [ "adım", "ismim", "kimim", "kimim ben" ]
+	},
+	{	
+		"name": "intent_imperative_eyecolor",
+		"keyphrases" : [ "göz rengi", "göz rengini", "göz rengini değiştir" ]
+	},
+	{	
+		"name": "intent_character_age", 
+		"keyphrases" : [ "yaş", "kaç yaş", "kaç yaşındasın" ]
+	},
+	{	
+		"name": "intent_explore_start", 
+		"keyphrases" : [ "başla", "keşfet", "keşfetmeye başla" ]
+	},
+	{	
+		"name": "intent_system_charger", 
+		"keyphrases" : [ "şarj", "git", "şarjına git" ]
+	},
+		{	
+		"name": "intent_system_sleep",
+		"keyphrases" : [ "uyu", "uyku" ]
+	},
+	{	
+		"name": "intent_greeting_goodmorning", 
+		"keyphrases" : [ "günaydın", "gün aydın" ]
+	},
+		{	
+		"name": "intent_greeting_goodnight", 
+		"keyphrases" : [ "gece", "geceler", "iyi geceler" ]
+	},
+		{	
+		"name": "intent_greeting_goodbye", 
+		"keyphrases" : [ "güle", "güle güle", "hoşça", "hoşçakal" ]
+	},
+	{	
+		"name": "intent_seasonal_happynewyear",
+		"keyphrases" : [ "yıl", "yıllar", "iyi yıl", "iyi yıllar", "mutlu yıl", "mutlu yıllar" ]
+	},
+	{	
+		"name": "intent_seasonal_happyholidays", 
+		"keyphrases" : [ "tatil", "iyi tatil", "iyi tatiller" ]
+	},
+	{	
+		"name": "intent_amazon_signin", 
+		"keyphrases" : [ "alek", "aleksa", "gir", "giriş", "giriş yap" ]
+	},
+	{	
+		"name": "intent_amazon_signin", 
+		"keyphrases" : [ "çık", "çıkış", "çıkış yap" ]
+	},
+	{	
+		"name": "intent_imperative_forward",
+		"keyphrases" : [ "ileri" ]
+	},
+	{	
+		"name": "intent_imperative_turnaround", 
+		"keyphrases" : [ "dön" ]
+	},
+	{	
+		"name": "intent_imperative_turnleft", 
+		"keyphrases" : [ "sol", "sola", "sola dön" ]
+	},
+	{	
+		"name": "intent_imperative_turnright", 
+		"keyphrases" : [ "sağ", "sağa", "sağa dön" ]
+	},
+	{	
+		"name": "intent_play_rollcube",
+		"keyphrases" : [ "küp" ]
+	},
+	{	
+		"name": "intent_play_popawheelie", 
+		"keyphrases" : [ "oyna", "küple", "küple oyna", "küp ile", "küp ile oyna" ]
+	},
+	{	
+		"name": "intent_play_fistbump", 
+		"keyphrases" : [ "this pomp", "this pump", "bump", "fistb", "fistf", "this book", "pisto", "with pomp", "fison", "first", "fifth", "were fifteen", "if bump", "wisdom", "this bu", "fist bomb", "fist ball", "this ball", "system", "fistbump" ]
+	},
+		{	
+		"name": "intent_play_blackjack", 
+		"keyphrases" : [ "black", "cards", "game", "play blackjack" ]
+	},
+		{	
+		"name": "intent_imperative_affirmative",
+		"keyphrases" : [ "evet", "doğru" ]
+	},
+	{	
+		"name": "intent_imperative_negative", 
+		"keyphrases" : [ "hayır", "yapma" ]
+	},
+	{	
+		"name": "intent_photo_take_extend", 
+		"keyphrases" : [ "resim", "çek", "resim çek" ]
+	},
+	{	
+		"name": "intent_imperative_praise", 
+		"keyphrases" : [ "iyi", "iyi robot" ]
+	},
+	{	
+		"name": "intent_imperative_abuse",
+		"keyphrases" : [ "kötü", "kötü robot" ]
+	},
+	{	
+		"name": "intent_imperative_apologize", 
+		"keyphrases" : [ "özür", "özür dilerim", "pardon" ]
+	},
+	{	
+		"name": "intent_imperative_backup", 
+		"keyphrases" : [ "yedek" ]
+	},
+	{	
+		"name": "intent_imperative_volumedown",
+		"keyphrases" : [ "kıs", "sesi kıs","sesi azalt" ]
+	},
+	{	
+		"name": "intent_imperative_volumeup", 
+		"keyphrases" : [ "yükselt", "arttır", "sesi yükselt", "sesi arttır" ]
+	},
+	{	
+		"name": "intent_imperative_lookatme", 
+		"keyphrases" : [ "bana bak" ]
+	},
+	{	
+		"name": "intent_imperative_volumelevel_extend",
+		"keyphrases" : [ "ses" ]
+	},
+	{	
+		"name": "intent_imperative_shutup", 
+		"keyphrases" : [ "sus", "konuşma" ]
+	},
+	{	
+		"name": "intent_greeting_hello", 
+		"keyphrases" : [ "selam", "merhaba" ]
+	},
+	{	
+		"name": "intent_imperative_come", 
+		"keyphrases" : [ "gel", "bana gel", "buraya", "buraya gel", "gel buraya" ]
+	},
+	{	
+		"name": "intent_imperative_love",
+		"keyphrases" : [ "aşk", "sevgi" ]
+	},
+	{	
+		"name": "intent_knowledge_promptquestion", 
+		"keyphrases" : [ "soru", "sorum", "sorum var" ]
+	},
+	{	
+		"name": "intent_clock_checktimer", 
+		"keyphrases" : [ "zamanı kontrol et", "zaman kontrol" ]
+	},
+	{	
+		"name": "intent_global_stop_extend", 
+		"keyphrases" : [ "durdur", "zamanı durdur" ]
+	},
+	{	
+		"name": "intent_clock_settimer_extend",
+		"keyphrases" : [ "ayarla", "zamanı ayarla", "zaman ayarla", "zaman ayar" ]
+	},
+	{	
+		"name": "intent_clock_time", 
+		"keyphrases" : [ "saat", "saat kaç" ]
+	},
+	{	
+		"name": "intent_imperative_quiet", 
+		"keyphrases" : [ "sessiz", "sessiz ol" ]
+	},
+	{	
+		"name": "intent_imperative_dance", 
+		"keyphrases" : [ "dans" ]
+	},
+	{	
+		"name": "intent_play_pickupcube",
+		"keyphrases" : [ "kaldır", "küpü kaldır", "küp kaldır" ]
+	},
+	{	
+		"name": "intent_imperative_fetchcube", 
+		"keyphrases" : [ "küpü getir", "küp getir" ]
+	},
+	{	
+		"name": "intent_imperative_findcube", 
+		"keyphrases" : [ "küpü bul", "küp bul" ]
+	},
+	{	
+		"name": "intent_play_anytrick", 
+		"keyphrases" : [ "numara", "numara yap" ]
+	},
+	{	
+		"name": "intent_message_recordmessage_extend",
+		"keyphrases" : [ "kayıt", "kaydet", "kayıt et" ]
+	},
+	{	
+		"name": "intent_message_playmessage_extend", 
+		"keyphrases" : [ "mesaj ver", "mesajı ver" ]
+	},
+		{	
+		"name": "intent_blackjack_hit", 
+		"keyphrases" : [ "vur" ]
+	},
+	{	
+		"name": "intent_blackjack_stand", 
+		"keyphrases" : [ "ayakta", "ayakta kal" ]
+	},
+	{	
+		"name": "intent_play_keepaway",
+		"keyphrases": [ "uzak dur", "uzakta dur", "uzakta" ]
+	}
+]
